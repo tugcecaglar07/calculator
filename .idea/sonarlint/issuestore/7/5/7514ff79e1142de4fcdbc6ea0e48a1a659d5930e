@@ -1,0 +1,11 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ù…ğßÅ2
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ú…ğßÅ2
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§öJ$bd527218-4bf2-4f9c-bd78-5d6e2be7f316
+i
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÀÒ³H8å…ğßÅ2
+\
+java:S1118":Add a private constructor to hide the implicit public one.(´àãËüÿÿÿÿ8è…ğßÅ2
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éî•’8é…ğßÅ2
+a
+java:S2147"DCombine this catch with the one at line 18, which has the same body.(ï­£Ä8ï…ğßÅ2

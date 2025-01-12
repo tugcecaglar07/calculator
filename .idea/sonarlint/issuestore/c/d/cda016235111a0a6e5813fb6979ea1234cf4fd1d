@@ -1,0 +1,9 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö8È‹€àÅ2J$96c2df8b-8cfb-40d1-a16a-87d9569d5f48
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(èÁ²ˆùÿÿÿÿ8Î‹€àÅ2J$4d50b433-e9f3-4678-9789-f3af89082aee
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¢²¹øÿÿÿÿ8Ï‹€àÅ2J$42384e6f-39e6-4be9-99f1-80b796805d05
+
+java:S1874)"7Remove this use of "pageLoadTimeout"; it is deprecated.(ì¿Ä²ıÿÿÿÿ8â‹€àÅ2J$b3932d55-548a-4e0a-be41-392e6afb7dec
+~
+java:S1874*"6Remove this use of "implicitlyWait"; it is deprecated.(âô§Üûÿÿÿÿ8ä‹€àÅ2J$956fd476-91cc-422a-ad09-9bccd21e1a54
